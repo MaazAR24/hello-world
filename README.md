@@ -1,2 +1,4 @@
 # hello-world
-My first repository for learning how to use github
+Hi people
+
+Maaz here, I am learning software development. I like to plan things and strategise.
